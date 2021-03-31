@@ -49,10 +49,12 @@
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" alt="Play Store" /></a>
 </p>
-
+<!--
 ### 🎧 Now Playing
 
 [<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status" alt="Playing Now" width="600" /></p>]()
+-->
+
 <!--
 **nzmcno/nzmcno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
