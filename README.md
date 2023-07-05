@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Can</h1>
-<h3 align="center">Developer (23y) from London</h3>
+<h3 align="center">Developer (25y) from London</h3>
 
 
 ### 🛠 Tech Stack
