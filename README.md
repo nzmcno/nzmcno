@@ -29,7 +29,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![IOS](https://img.shields.io/badge/-IOS-05122A?style=flat&logo=ios)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
-![Unity](https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 ### 📊 GitHub Analytics
