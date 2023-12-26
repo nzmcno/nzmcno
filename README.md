@@ -39,7 +39,7 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nzmcno&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="nzmcno"/>
 </a>
 </p>
- ![CAN's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=nzmcno)
+
 ### 🤝🏻 Social
 
 <p align="left">
